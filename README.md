@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 ### 👾Game Tech, Swift
 
-> 🔗 blog : [blog](https://hwankee.github.io/)
+> 🔗 blog : [blog](https://hwankee.netlify.app/)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwankee)](https://github.com/anuraghazra/github-readme-stats)
 
