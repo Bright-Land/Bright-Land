@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 ### 👾Game Tech, Swift
 
-> 🔗 My Ps-Partner : [leetcode.com](https://leetcode.com/)
+> 🔗🍺 My PS-Partner: [leetcode.com](https://leetcode.com/)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwankee)](https://github.com/anuraghazra/github-readme-stats)
 
