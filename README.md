@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ---
 ### 👾Game Tech, Swift
 
-> 🔗 blog : [blog](https://hwankee.netlify.app/)
-> [my ps-partner](https://leetcode.com/)
+> 🔗 My Ps-Partner : [my ps-partner](https://leetcode.com/)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwankee)](https://github.com/anuraghazra/github-readme-stats)
 
