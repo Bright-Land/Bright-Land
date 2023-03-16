@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### 👾Game Tech
 
 > 🔗🍺 My PS-Partner: [leetcode.com](https://leetcode.com/)    
-> 🔗🎨 My Tech Blog: [envy bros.](https://envybros.notion.site/9e55527df8d149bb916ca939778085e0/)
+> 🔗🎨 My Tech Blog: [envy bros.](https://blog.naver.com/devenvy/)
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwankee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-envy)](https://github.com/anuraghazra/github-readme-stats)
 
->[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBright-Land%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23FFBF00&title=Lovers&edge_flat=false)](https://hits.seeyoufarm.com)                  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-envy%2F&count_bg=%23FFA3A3&title_bg=%23FF0000&icon=youtubegaming.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 >🏝
