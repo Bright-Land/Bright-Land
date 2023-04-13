@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 👾Game Tech
 
 > 🔗🍺 My PS-Partner: [leetcode.com](https://leetcode.com/)    
-> 🔗🎨 My Tech Blog: [envy bros.](https://blog.naver.com/devenvy/)
+> 🔗🎨 My Website: [envy bros.](https://www.envybros.com/)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-envy)](https://github.com/anuraghazra/github-readme-stats)
 
