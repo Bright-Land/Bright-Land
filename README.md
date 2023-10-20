@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=&fontSize=80)
 ---
 
-## 👾 Game Lover
+## 👾 Game Programmer
 
-> 🔗🍺 My PS-Partner: [leetcode.com](https://leetcode.com/)    
-> 🔗🎨 My Website: [envy bros.](https://www.envybros.com/)
+> 🔗🍺 My PS-Partner: [leetcode.com](https://leetcode.com/hwankee/)    
+> 🔗🎨 My Website: [envy bros.](https://www.envys.me/)
    
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pulp-pixel)](https://github.com/anuraghazra/github-readme-stats)
